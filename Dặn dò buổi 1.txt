@@ -1,0 +1,9 @@
+cài xampp cho php
+
+Yêu cầu đồ án
+- phân tích hệ thống 
+- Sơ đồ cơ sở dữ liệu
+- Phải đưa cho giáo viên duyệt trước
+Source Code: 
+- Code + Database
+Hạn nộp tuần cuối môn học
